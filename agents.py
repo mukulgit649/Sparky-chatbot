@@ -4,7 +4,7 @@ import time
 import json 
 
 
-API_KEY = "AIzaSyCcoqHL3yPU9p-j4_Q90AFCOuL8G7URoNc"
+API_KEY = "Your API key"
 MODEL_NAME = "gemini-2.0-flash" 
 
 try:
